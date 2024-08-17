@@ -1,4 +1,4 @@
-# SoundSafariSong Recommendation System
+# SoundSafari - Song Recommendation System
 
 SoundSafari is a web application designed to recommend songs to users based on their preferences for various musical attributes. It offers a personalized music recommendation experience by allowing users to specify their preferences, which are then matched against a dataset of songs.
 
