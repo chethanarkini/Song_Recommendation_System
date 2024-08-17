@@ -1,6 +1,6 @@
 # Song Recommendation Project
 
-A Flask application that recommends songs using Spotify's Web API.
+SoundSafari is a web application designed to recommend songs to users based on their preferences for various musical attributes. It offers a personalized music recommendation experience by allowing users to specify their preferences, which are then matched against a dataset of songs.
 
 ## Setup
 
