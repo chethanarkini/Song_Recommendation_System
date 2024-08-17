@@ -17,7 +17,7 @@ Update getresults.py with your Spotify client_id and client_secret.
    ```bash
    python app.py
 
-##Usage
+## Usage
 Open http://localhost:56015 in a web browser.
 Submit song features to get recommendations.
 Project Structure
