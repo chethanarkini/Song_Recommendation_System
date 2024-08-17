@@ -1,4 +1,4 @@
-# Song Recommendation Project
+# SoundSafariSong Recommendation System
 
 SoundSafari is a web application designed to recommend songs to users based on their preferences for various musical attributes. It offers a personalized music recommendation experience by allowing users to specify their preferences, which are then matched against a dataset of songs.
 
@@ -21,6 +21,13 @@ SoundSafari is a web application designed to recommend songs to users based on t
 
 - Open `http://localhost:56015` in a web browser.
 - Submit song features to get recommendations.
+
+## How It Works
+- Users input their preferences on the main page.
+- The backend processes these preferences and compares them against a pre-loaded dataset of songs.
+- The system selects the top 10 most similar songs based on the input criteria.
+- Additional details about these songs are fetched from Spotify.
+- The results are displayed on a separate page with a visually appealing interface.
 
 ## Project Structure
 
