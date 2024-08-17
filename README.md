@@ -12,7 +12,7 @@ A Flask application that recommends songs using Spotify's Web API.
    ```bash
    pip install -r requirements.txt
 3. **Configure Spotify API**:
-Update getresults.py with your Spotify client_id and client_secret.   
+- Update getresults.py with your Spotify client_id and client_secret.   
 4. Run the Application:
    ```bash
    python app.py
