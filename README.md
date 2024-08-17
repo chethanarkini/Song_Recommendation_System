@@ -7,7 +7,7 @@ A Flask application that recommends songs using Spotify's Web API.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/chethanarkini/Song_Recommendation_System.git
 2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
